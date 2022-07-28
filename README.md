@@ -1,1 +1,2 @@
 # odin-recipes
+Odin Recipes is a project which displays my ability to create a useful website. Such abilities include local & remote links, images, paragraphs, headers, and a title. Odin Recipes will be updated and upgraded as I expand my knowledge from just html to css and javascript.
